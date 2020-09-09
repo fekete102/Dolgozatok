@@ -3,4 +3,4 @@ EZ egy olyan sablon amint úgy szabhatunk testre ahogy szeretnénk.
 2.
 3.Az eszközkezelő információkat gyűjt az eszközökről.
 itt lehet megtalálni a gép részletes leírását.
-4. A virtuális memóriával a gépünket 5-10%-kal hasznosabbá. 
+4. A virtuális memóriával a gépünket 5-10%-kal hasznosabbá tehetjük. 
