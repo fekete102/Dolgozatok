@@ -1,0 +1,10 @@
+b
+
+1. Mit jelent a <!DOCTYPE HTML> elem?
+A dokumentum nyelvét lehet beállítani ezzel a paranccsal.
+2.Hogyan definiáljuk a belső stílust a head elemben?
+<link>
+3.Emmet utasítás átírása:
+<p>Példa:
+<span>Ez itt egy példa</span>
+Az Emmet-ről.</p>
